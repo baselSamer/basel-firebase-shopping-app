@@ -1,0 +1,21 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/pubspec.lock
+*.iml
+.idea/
+.vscode/
+
+# Firebase / platform config generated per-developer — regenerate with
+# `flutterfire configure` rather than committing someone else's keys.
+# Uncomment these once you've generated your own if you don't want to
+# publish your Firebase config on a public repo:
+# lib/firebase_options.dart
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
+
+.DS_Store
