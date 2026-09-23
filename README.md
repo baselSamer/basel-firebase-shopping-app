@@ -1,4 +1,4 @@
-# test_project
+# Shopping app using firebase
 
 A new Flutter project.
 
